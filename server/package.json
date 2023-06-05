@@ -2,12 +2,12 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "server/index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.js",
+    "dev": "nodemon app.js",
     "build": "npm install",
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
